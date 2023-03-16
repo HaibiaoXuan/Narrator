@@ -20,6 +20,8 @@ We plan to release the training and testing code of Narrator in this repository 
 ```
 ```
 
+## Dependencies
+
 ## Pretrained model
 
 
@@ -40,3 +42,7 @@ If you find this code useful for your research, please use the following BibTeX 
   year={2023}
 }
 ```
+
+## Acknowledgement
+
+## License
