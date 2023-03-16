@@ -23,8 +23,6 @@ We plan to release the training and testing code of Narrator in this repository 
 ## Pretrained model
 
 
-## LargeCrowd Dataset
-
 ## TODO
 
 - Code for training and testing of Narrator
