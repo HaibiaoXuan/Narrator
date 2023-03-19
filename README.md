@@ -11,7 +11,7 @@
 
 Code is coming soon!
 
-We plan to release the training and testing code of Narrator in this repository as soon as possible. Any discussions or questions would be welcome!
+We plan to release the training and testing code of Narrator in this repository after acceptance. Any discussions or questions would be welcome!
 
 ## News
 
@@ -38,7 +38,7 @@ If you find this code useful for your research, please use the following BibTeX 
 @inproceedings{Narrator,
   title={Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning},
   author={Haibiao Xuan, Xiongzheng Li, Jinsong Zhang, Hongwen Zhang, Yebin Liu and Kun Li},
-  journal={arXiv preprint arXiv:xxxx},
+  journal={arXiv preprint arXiv:2303.09410},
   year={2023}
 }
 ```
