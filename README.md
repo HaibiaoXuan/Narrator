@@ -3,7 +3,7 @@
 
 
 
-### [Project Page]() | [Paper]() 
+### [Project Page](https://haibiaoxuan.github.io/Narrator/) | [Paper](https://arxiv.org/pdf/2303.09410.pdf) 
 
 
 > [Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning]()  
