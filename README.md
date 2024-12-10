@@ -9,9 +9,7 @@
 > [Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning]()  
 > Haibiao Xuan, Xiongzheng Li, Jinsong Zhang, Hongwen Zhang, Yebin Liu and Kun Li
 
-Code is coming soon!
-
-We plan to release the training and testing code of Narrator in this repository after acceptance. Any discussions or questions would be welcome!
+We will release the training and testing code by the end of this month (2024-12-31). Any discussions or questions would be welcome!
 
 ## News
 
