@@ -26,7 +26,7 @@ Any discussions or questions would be welcome!
 ## TODO
 
 - Model checkpoints
-- Narrator Dataset
+- Narrator dataset
 - Some remaining codes
 
 
