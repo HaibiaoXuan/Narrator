@@ -25,7 +25,9 @@ Any discussions or questions would be welcome!
 
 ## TODO
 
-- Code for training and testing of Narrator
+- Model checkpoints
+- Narrator Dataset
+- Some remaining codes
 
 
 ## Citation
